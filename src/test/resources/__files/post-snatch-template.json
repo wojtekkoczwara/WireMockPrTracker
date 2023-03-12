@@ -1,0 +1,5 @@
+{
+  "exerciseName": "snatch",
+  "scoreDate": "{{jsonPath request.body '$.scoreDate'}}",
+  "prWeight": 110.0
+}

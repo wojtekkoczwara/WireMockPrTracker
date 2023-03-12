@@ -1,0 +1,48 @@
+[
+  {
+    "exerciseName": "bench press",
+    "id": 1,
+    "scoreDate": "2023-02-14",
+    "prWeight": 120.0
+  },
+  {
+    "exerciseName": "bench press",
+    "id": 3,
+    "scoreDate": "2023-02-14",
+    "prWeight": 120.0
+  },
+  {
+    "exerciseName": "clean jerk",
+    "id": 4,
+    "scoreDate": "2023-02-14",
+    "prWeight": 120.0
+  },
+  {
+    "exerciseName": "snatch",
+    "id": 5,
+    "scoreDate": "2023-02-14",
+    "prWeight": 120.0
+  },
+  {
+    "exerciseName": "run 5",
+    "id": 8,
+    "scoreDate": "2023-02-14",
+    "runningTimeInSeconds": 1200,
+    "secPerKilometer": 240,
+    "distanceInKm": 5
+  },
+  {
+    "exerciseName": "snatch",
+    "id": 9,
+    "scoreDate": "2023-02-14",
+    "prWeight": 150.0
+  },
+  {
+    "exerciseName": "run 5",
+    "id": 11,
+    "scoreDate": "2023-02-14",
+    "runningTimeInSeconds": 1200,
+    "secPerKilometer": 240,
+    "distanceInKm": 5
+  }
+]
